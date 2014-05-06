@@ -3,7 +3,7 @@ Game Java
 
 Game feito em Java.
 
-Técnologias
+Tecnologias
 ========
 * Servelets
 * Banco de Dados
