@@ -1,0 +1,18 @@
+use TheGame;
+
+create table Jogadores(
+Jog_Codigo int(4) auto_increment,
+Jog_Nome varchar(40),
+Jog_Fase varchar(30),
+Jog_Movimento int(10),
+Jog_Tempo varchar(30),
+primary key (Jog_Codigo)
+);
+
+
+create table Fases(
+Fas_Codigo int(4) auto_increment,
+Fas_Numero varchar(40),
+Fas_Class varchar(30),
+primary key (Fas_Codigo)
+);

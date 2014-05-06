@@ -1,0 +1,113 @@
+.menuBody{
+    background-image: url(Imagens/1.png), url(Imagens/2.png), 
+    -webkit-linear-gradient(
+    top, rgba(255, 255, 255, 0), 
+    rgba(255, 255, 255, 0.8) 62%);
+    background-color: rgb(0, 136, 204);    
+}
+
+.menu{
+    position: absolute; 
+    width: 100%; 
+    text-align: center; 
+    height: 100%   
+}
+
+#btnGame{
+    width:400px; 
+    height:100px; 
+    margin-top:4%; 
+    font-size: 40px;
+}
+
+#container{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin-top: 5%;
+}
+
+#information{
+    margin-top: 10%;
+}
+
+#fase{
+    font-size: 90px;
+    display: inline;
+}
+
+#movimentos{   
+    font-size: 30px;
+    margin-top: 70px
+}
+
+#tempo{
+    margin-top: 70px;
+    font-size: 30px;
+}
+
+#movimentoPlacar{
+    font-size: 80px;
+}
+
+#tempoPlacar{
+    font-size: 80px;
+}
+
+.separador{
+    margin-bottom: 40px;
+}
+
+.modal-footer{
+    text-align: center !important;
+}
+
+.modal-body{        
+    height: 320px;    
+}
+#nameIndex{
+    margin-top: 9%;
+}
+
+#nomeCampo{
+    font-size: 30px;
+    margin-bottom: 2%;
+}
+
+.myButton{
+    width:100px; 
+    height:100px
+}
+
+#myModalLabel{
+    font-size: 50px;
+    padding: 21px;
+}
+
+#proximaFase{
+    width: 160px;
+    height: 35px;
+}
+
+#menusInformation{
+    text-align: center;
+    margin-top: 8%;
+}
+.infos{
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 180px;
+}
+.btnVoltarButton{
+    width: 140px;    
+}
+
+#melhoresColocados{
+    font-size: 25px;
+    margin-bottom: 7%;
+}
+#btnVoltarHome{
+    margin-top: 65px;
+}
+
+
