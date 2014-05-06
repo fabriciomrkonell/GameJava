@@ -1,4 +1,10 @@
-GameJava
+Game Java
 ========
 
-Game em Java.
+Game feito em Java.
+
+Técnologias
+========
+* Servelets
+* Banco de Dados
+
